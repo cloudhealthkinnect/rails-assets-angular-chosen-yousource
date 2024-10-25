@@ -1,1 +1,1 @@
-//= require angular-chosen-yousource/chosen.js.coffee
+//= require angular-chosen-yousource/chosen.js
